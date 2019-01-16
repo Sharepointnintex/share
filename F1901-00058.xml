@@ -1,0 +1,680 @@
+<?xml version="1.0"?><?mso-infoPathSolution name="urn:schemas-microsoft-com:office:infopath:OFPD-Facility-Requests-:-myXSD-2018-02-05T18-08-26" solutionVersion="1.0.0.2895" productVersion="15.0.0.0" PIVersion="1.0.0.0" href="https://vaww.portal2.va.gov/sites/pahcs/Facility_Request/OFPD_Facility_Requests_/Forms/template.xsn"?><?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.3"?><?mso-infoPath-file-attachment-present?><my:myFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:tns="http://microsoft.com/webservices/SharePointPortalServer/UserProfileService" xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:ns1="http://schemas.microsoft.com/sharepoint/soap/directory/" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:ns2="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:ns3="http://schemas.microsoft.com/sharepoint/soap/" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2018-02-05T18:08:26" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-US">
+	<my:OFPD_Status>09 - Install Date Approved</my:OFPD_Status>
+	<my:Item_Unique_ID>F1901-00058</my:Item_Unique_ID>
+	<my:OFPD_Service>73</my:OFPD_Service>
+	<my:Service_Chief>Wagner, Ray H.</my:Service_Chief>
+	<my:POC>Wagner, Ray H.</my:POC>
+	<my:Approving_Official_2></my:Approving_Official_2>
+	<my:Approving_Official_3></my:Approving_Official_3>
+	<my:Requestor>Wagner, Ray H.</my:Requestor>
+	<my:Chief_Ext>650.493.5000 x68615</my:Chief_Ext>
+	<my:POC_Ext>650.493.5000 63666</my:POC_Ext>
+	<my:Approving_Official_2_Ext></my:Approving_Official_2_Ext>
+	<my:Approving_Official_3_Ext></my:Approving_Official_3_Ext>
+	<my:Requestor_Ext>650.493.5000 x68615</my:Requestor_Ext>
+	<my:Dept>Office of Facility Planning and Development</my:Dept>
+	<my:Date_Submitted></my:Date_Submitted>
+	<my:Cost_Center></my:Cost_Center>
+	<my:Section_1>
+		<my:Chief_Edited>false</my:Chief_Edited>
+	</my:Section_1>
+	<my:Section_2>
+		<my:AO_Edited>false</my:AO_Edited>
+	</my:Section_2>
+	<my:Section_3>
+		<my:Clear_Warning>false</my:Clear_Warning>
+	</my:Section_3>
+	<my:Emergency>false</my:Emergency>
+	<my:Emergency_Section>
+		<my:Emerg_Safety>false</my:Emerg_Safety>
+		<my:Emerg_Infection>false</my:Emerg_Infection>
+		<my:Emerg_ADA>false</my:Emerg_ADA>
+		<my:Emerg_Reasonable_Accom>false</my:Emerg_Reasonable_Accom>
+		<my:Emerg_Other>false</my:Emerg_Other>
+		<my:Emergency_Text_Section_UserList></my:Emergency_Text_Section_UserList>
+	</my:Emergency_Section>
+	<my:Furniture>false</my:Furniture>
+	<my:Space_Assessment>false</my:Space_Assessment>
+	<my:Furniture_Reconfig>false</my:Furniture_Reconfig>
+	<my:Space_Change>false</my:Space_Change>
+	<my:Dry_Erase>false</my:Dry_Erase>
+	<my:Relocation>false</my:Relocation>
+	<my:Signage>false</my:Signage>
+	<my:Space_Additional>false</my:Space_Additional>
+	<my:Patch_Paint>false</my:Patch_Paint>
+	<my:Space_Other>true</my:Space_Other>
+	<my:Carpet_Base>false</my:Carpet_Base>
+	<my:People xsi:nil="true"></my:People>
+	<my:Work_Station_No xsi:nil="true"></my:Work_Station_No>
+	<my:Offices_No xsi:nil="true"></my:Offices_No>
+	<my:Description></my:Description>
+	<my:Justification></my:Justification>
+	<my:Approved_by_Section>
+		<my:AO_Action_by>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:AO_Action_by>
+		<my:Date_AO_Action xsi:nil="true"></my:Date_AO_Action>
+	</my:Approved_by_Section>
+	<my:AO_Chief_Check>true</my:AO_Chief_Check>
+	<my:Temp_Notes></my:Temp_Notes>
+	<my:Note_History></my:Note_History>
+	<my:Attachments>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</my:Attachments>
+	<my:Link_to_SuppDocs></my:Link_to_SuppDocs>
+	<my:Eng_Amount>None</my:Eng_Amount>
+	<my:Eng_Work_Order_Section>
+		<my:Temp_Eng_Site_Notes></my:Temp_Eng_Site_Notes>
+	</my:Eng_Work_Order_Section>
+	<my:Deny_Approve></my:Deny_Approve>
+	<my:OFPD_Response_Section>
+		<my:OFPD_Response></my:OFPD_Response>
+	</my:OFPD_Response_Section>
+	<my:Informed_Approval_Section>
+		<my:Informed_Approval_Date></my:Informed_Approval_Date>
+	</my:Informed_Approval_Section>
+	<my:Intitial_Site_Visit>false</my:Intitial_Site_Visit>
+	<my:Assign_to_Section>
+		<my:Interior_Designer_Assigned>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Interior_Designer_Assigned>
+		<my:Interior_Designer_Assignment_Date>
+			<my:Interior_Designer_Assignment_Date_txt></my:Interior_Designer_Assignment_Date_txt>
+		</my:Interior_Designer_Assignment_Date>
+	</my:Assign_to_Section>
+	<my:Proc_team_Request>false</my:Proc_team_Request>
+	<my:OIT_Related_Section>
+		<my:OIT_Required>false</my:OIT_Required>
+		<my:OIT_Notes_Section>
+			<my:OIT_Site_Notes_txt></my:OIT_Site_Notes_txt>
+			<my:OIT_Notes_History></my:OIT_Notes_History>
+			<my:OIT_Lead_Time></my:OIT_Lead_Time>
+			<my:OIT_Requirements_Complete>false</my:OIT_Requirements_Complete>
+		</my:OIT_Notes_Section>
+		<my:Eng_Support_Required>false</my:Eng_Support_Required>
+		<my:Engineering_Section>
+			<my:Eng_Site_Notes></my:Eng_Site_Notes>
+			<my:Eng_Note_History></my:Eng_Note_History>
+			<my:Eng_Lead_Time></my:Eng_Lead_Time>
+			<my:Eng_Walkthrough_Complete>false</my:Eng_Walkthrough_Complete>
+		</my:Engineering_Section>
+		<my:NO_OIT_Required>false</my:NO_OIT_Required>
+	</my:OIT_Related_Section>
+	<my:Interior_Designer_Section>
+		<my:Interior_Designer>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Interior_Designer>
+		<my:Int_Designer_Phone></my:Int_Designer_Phone>
+	</my:Interior_Designer_Section>
+	<my:Phasing>false</my:Phasing>
+	<my:OFPD_Assignment_Section>
+		<my:Space_Committee>false</my:Space_Committee>
+		<my:Proj_Dev>false</my:Proj_Dev>
+		<my:OFPD_justification_Response_Section>
+			<my:OFPD_justification_response_txt></my:OFPD_justification_response_txt>
+		</my:OFPD_justification_Response_Section>
+		<my:Location_Needed>Select a Location</my:Location_Needed>
+	</my:OFPD_Assignment_Section>
+	<my:Action_Log>&lt; Wagner, Ray H. - 2019-01-02&gt; Approved Installation Date &lt; Wagner, Ray H. - 2019-01-02&gt; OFPD created request </my:Action_Log>
+	<my:Contact_Info_Section>
+		<my:Contact_Info_correct>false</my:Contact_Info_correct>
+	</my:Contact_Info_Section>
+	<my:Contact_View_Title_1></my:Contact_View_Title_1>
+	<my:Contact_View_Title_2></my:Contact_View_Title_2>
+	<my:Contact_View_Username>
+		<my:Temp_Usernamepicker>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Temp_Usernamepicker>
+		<my:Delete_ChiefAO>false</my:Delete_ChiefAO>
+	</my:Contact_View_Username>
+	<my:Temp_Extension></my:Temp_Extension>
+	<my:PrevView></my:PrevView>
+	<my:Temp_Text>translate(AccountId, "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz")</my:Temp_Text>
+	<my:Service></my:Service>
+	<my:State_Message>OFPD is Processing the Request</my:State_Message>
+	<my:Status>09 - Service Approved Installation Date</my:Status>
+	<my:Assigned_To>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Assigned_To>
+	<my:IDName></my:IDName>
+	<my:Item_URL></my:Item_URL>
+	<my:Doc_Library_Link></my:Doc_Library_Link>
+	<my:Attachment>false</my:Attachment>
+	<my:Name></my:Name>
+	<my:UserName></my:UserName>
+	<my:Current_User_AccountName></my:Current_User_AccountName>
+	<my:Chief_UserID>i:0#.w|vha21\vhapalwagner</my:Chief_UserID>
+	<my:Chief_UserID1>
+		
+	<pc:Person xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"><pc:DisplayName>Wagner, Ray H.</pc:DisplayName><pc:AccountId>i:0#.w|vha21\vhapalwagner</pc:AccountId><pc:AccountType>User</pc:AccountType></pc:Person></my:Chief_UserID1>
+	<my:AO_UserID>i:0#.w|vha21\vhapalwagner</my:AO_UserID>
+	<my:AO_UserID1>
+		
+	<pc:Person xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls"><pc:DisplayName>Wagner, Ray H.</pc:DisplayName><pc:AccountId>i:0#.w|vha21\vhapalwagner</pc:AccountId><pc:AccountType>User</pc:AccountType></pc:Person></my:AO_UserID1>
+	<my:AO_UserID2>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:AO_UserID2>
+	<my:AO_UserID3>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:AO_UserID3>
+	<my:IsCurrentUserInPlanning>true</my:IsCurrentUserInPlanning>
+	<my:IsCurrentUserInProcMgmt>true</my:IsCurrentUserInProcMgmt>
+	<my:IsCurrentUserInProcTeam>true</my:IsCurrentUserInProcTeam>
+	<my:IsCurrentUserInWorkflowAdmins>true</my:IsCurrentUserInWorkflowAdmins>
+	<my:Requestor_AO_Chief>true</my:Requestor_AO_Chief>
+	<my:ProcMgmt>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:ProcMgmt>
+	<my:ProcTeam>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:ProcTeam>
+	<my:Admins>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Admins>
+	<my:SpaceComm>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:SpaceComm>
+	<my:ProjDevMgrs>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:ProjDevMgrs>
+	<my:OIT>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:OIT>
+	<my:Engineering>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Engineering>
+	<my:OFPD>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:OFPD>
+	<my:Action>PRINSTAPP</my:Action>
+	<my:PreviousAction>IRSPROXY</my:PreviousAction>
+	<my:State>WP</my:State>
+	<my:Original_ID></my:Original_ID>
+	<my:Procurement_ID></my:Procurement_ID>
+	<my:Import_Attachment>false</my:Import_Attachment>
+	<my:UserNameValidated>false</my:UserNameValidated>
+	<my:Edit_Requestor>false</my:Edit_Requestor>
+	<my:CurrentUser>i:0#.w|vha21\vhapalwagner</my:CurrentUser>
+	<my:IsGroupMember_ProjDevMem>1</my:IsGroupMember_ProjDevMem>
+	<my:Concat_Chief_AO>Submitted byWagner, Ray H.</my:Concat_Chief_AO>
+	<my:OFPD_Concat_Request_Info></my:OFPD_Concat_Request_Info>
+	<my:OFPD_Concat_Emerg_Info></my:OFPD_Concat_Emerg_Info>
+	<my:LastToAct>Wagner, Ray H.</my:LastToAct>
+	<my:Procurement_Link my:field2=""></my:Procurement_Link>
+	<my:Process_Request>true</my:Process_Request>
+	<my:Update_Source>OFPD</my:Update_Source>
+	<my:Space_Deny_Approve>Choose one...</my:Space_Deny_Approve>
+	<my:Space_Det_Note></my:Space_Det_Note>
+	<my:Space_Det_Assign></my:Space_Det_Assign>
+	<my:Space_Det_Justification></my:Space_Det_Justification>
+	<my:Space_OIT></my:Space_OIT>
+	<my:Space_Eng></my:Space_Eng>
+	<my:Attachment_boolean>true</my:Attachment_boolean>
+	<my:Service_Name>OFPD</my:Service_Name>
+	<my:Service_ID>73</my:Service_ID>
+	<my:group1>
+		<my:Station_Section>
+			<my:Station>3</my:Station>
+			<my:Building_Group>
+				<my:Building></my:Building><my:Building>006</my:Building><my:Building>26</my:Building><my:Building>6</my:Building><my:Building>30</my:Building>
+			</my:Building_Group>
+			<my:Test_Building_Concat_Text>006, 26, 6, 30</my:Test_Building_Concat_Text>
+			<my:Temp_Station_Populate_Value>Livermore Division</my:Temp_Station_Populate_Value>
+		</my:Station_Section>
+		<my:Room_Nos>5,6</my:Room_Nos>
+	</my:group1>
+	<my:Station_Building_Concat>Livermore Division-006, 26, 6, 30|</my:Station_Building_Concat>
+	<my:Temp_Station_Concat>Livermore Division;</my:Temp_Station_Concat>
+	<my:Temp_Building_Concat>006, 26, 6, 30</my:Temp_Building_Concat>
+	<my:IDPhone></my:IDPhone>
+	<my:Infrastructure_Mods>false</my:Infrastructure_Mods>
+	<my:Sent_To_Space>false</my:Sent_To_Space>
+	<my:Proc_Team_Request>false</my:Proc_Team_Request>
+	<my:Request_Details></my:Request_Details>
+	<my:Request_Justification></my:Request_Justification>
+	<my:Cost_Center_Label></my:Cost_Center_Label>
+	<my:IsCurrentUserInProjDevMngr>true</my:IsCurrentUserInProjDevMngr>
+	<my:ID_Name></my:ID_Name>
+	<my:ID_Coordinator>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:ID_Coordinator>
+	<my:Actual_Installation_Date_Section>
+		<my:Actual_Installation_Date xsi:nil="true"></my:Actual_Installation_Date>
+	</my:Actual_Installation_Date_Section>
+	<my:PunchNotes></my:PunchNotes>
+	<my:Date_Actual_Punch_Closed xsi:nil="true"></my:Date_Actual_Punch_Closed>
+	<my:FinalAccepedby>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:FinalAccepedby>
+	<my:FinalAcceptanceDate xsi:nil="true"></my:FinalAcceptanceDate>
+	<my:Reconcile_Date xsi:nil="true"></my:Reconcile_Date>
+	<my:No-Reconciliation>false</my:No-Reconciliation>
+	<my:Labor_Cost_Final></my:Labor_Cost_Final>
+	<my:PALTActionBy>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:PALTActionBy>
+	<my:DatePALTAction xsi:nil="true"></my:DatePALTAction>
+	<my:FinalApprovedBy>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:FinalApprovedBy>
+	<my:Date_Final_Approved xsi:nil="true"></my:Date_Final_Approved>
+	<my:Date_Created></my:Date_Created>
+	<my:Temp_ID_Assess_Notes></my:Temp_ID_Assess_Notes>
+	<my:Proc_Assignment_Section></my:Proc_Assignment_Section>
+	<my:Expedite_GoToNextForm_Section></my:Expedite_GoToNextForm_Section>
+	<my:ServiceOnly>false</my:ServiceOnly>
+	<my:Proc_PartAllInv_Section>
+		<my:PartAllInventory>None</my:PartAllInventory>
+	</my:Proc_PartAllInv_Section>
+	<my:Proc_PartAllInv_Text_Section></my:Proc_PartAllInv_Text_Section>
+	<my:PreliminaryCostEstimate_Section>
+		<my:PreliminaryCostEstimate>0.00</my:PreliminaryCostEstimate>
+	</my:PreliminaryCostEstimate_Section>
+	<my:PreliminaryCostEstimate_Text_Section></my:PreliminaryCostEstimate_Text_Section>
+	<my:PreliminaryCostEstimate_Button_Section></my:PreliminaryCostEstimate_Button_Section>
+	<my:PreliminaryCostEstimate_Service_not_Section></my:PreliminaryCostEstimate_Service_not_Section>
+	<my:PreliminaryCostEstimate_Service_will_Section></my:PreliminaryCostEstimate_Service_will_Section>
+	<my:Assess_Estimate_Complete>false</my:Assess_Estimate_Complete>
+	<my:AssessEstimateComplete_Text_Section></my:AssessEstimateComplete_Text_Section>
+	<my:AssessEstimateComplete_Section></my:AssessEstimateComplete_Section>
+	<my:PlanRequired_Section>
+		<my:PlanRequired>false</my:PlanRequired>
+	</my:PlanRequired_Section>
+	<my:PlanRequired_text_Section></my:PlanRequired_text_Section>
+	<my:Proc_OIT_Notes_Section>
+		<my:OIT_Confirmed>false</my:OIT_Confirmed>
+		<my:group5>
+			<my:OIT_Submitted>false</my:OIT_Submitted>
+		</my:group5>
+		<my:OIT_Important_Notes></my:OIT_Important_Notes>
+	</my:Proc_OIT_Notes_Section>
+	<my:Proc_Engineering_Notes_Section>
+		<my:Eng_Confirmed>false</my:Eng_Confirmed>
+	</my:Proc_Engineering_Notes_Section>
+	<my:Proc_SendEmail_Section>
+		<my:FinalIDPlan>false</my:FinalIDPlan>
+		<my:Proc_LinkToFinalPlan_Section></my:Proc_LinkToFinalPlan_Section>
+		<my:Proc_PlanApprovedBy_Section></my:Proc_PlanApprovedBy_Section>
+	</my:Proc_SendEmail_Section>
+	<my:LaborCost></my:LaborCost>
+	<my:ReplacementCost></my:ReplacementCost>
+	<my:OtherCost></my:OtherCost>
+	<my:TotalCostInv>0</my:TotalCostInv>
+	<my:PONumber></my:PONumber>
+	<my:Move_Required>false</my:Move_Required>
+	<my:EMS_Required>false</my:EMS_Required>
+	<my:Proc_Move_Support_Section>
+		<my:Move_Submitted>false</my:Move_Submitted>
+	</my:Proc_Move_Support_Section>
+	<my:EstInstallationDate>2019-01-02</my:EstInstallationDate>
+	<my:MultiDay>false</my:MultiDay>
+	<my:InstallFinishdate_Section>
+		<my:EstInstallationEndDate>2019-01-02</my:EstInstallationEndDate>
+	</my:InstallFinishdate_Section>
+	<my:group4>
+		<my:AltInstallationDate xsi:nil="true"></my:AltInstallationDate>
+		<my:AltInstallFinishDate_Section>
+			<my:AltInstallFinishDate xsi:nil="true"></my:AltInstallFinishDate>
+		</my:AltInstallFinishDate_Section>
+		<my:AltInstallProposedBy></my:AltInstallProposedBy>
+	</my:group4>
+	<my:Proc_SendEmailRequesting_button_Section></my:Proc_SendEmailRequesting_button_Section>
+	<my:Proc_InstallApproval_Section>
+		<my:ApprovedInstallDate xsi:nil="true"></my:ApprovedInstallDate>
+		<my:InstApprovedBy></my:InstApprovedBy>
+		<my:DateInstApproved xsi:nil="true"></my:DateInstApproved>
+	</my:Proc_InstallApproval_Section>
+	<my:InstallComplete_Section>
+		<my:Install_Complete>false</my:Install_Complete>
+	</my:InstallComplete_Section>
+	<my:InstallComplete_Text_Section></my:InstallComplete_Text_Section>
+	<my:ActualInstallationDate_Section>
+		<my:ActualInstallationDate xsi:nil="true"></my:ActualInstallationDate>
+		<my:ContractorPerformanceLink my:field18="">Click here to enter contractor performance</my:ContractorPerformanceLink>
+	</my:ActualInstallationDate_Section>
+	<my:Proc_PunchList_Section>
+		<my:PunchList_Notes></my:PunchList_Notes>
+		<my:PunchNotesHistory></my:PunchNotesHistory>
+		<my:DateActualPunchClosed xsi:nil="true"></my:DateActualPunchClosed>
+		<my:Actual_Punch_List_Section></my:Actual_Punch_List_Section>
+		<my:EstCompletionPunchListDate xsi:nil="true"></my:EstCompletionPunchListDate>
+	</my:Proc_PunchList_Section>
+	<my:NoPunch_Section>
+		<my:NoPunch>false</my:NoPunch>
+	</my:NoPunch_Section>
+	<my:NoPunch_Text_Section></my:NoPunch_Text_Section>
+	<my:Proc_SendEmailAcceptance_Section></my:Proc_SendEmailAcceptance_Section>
+	<my:Proc_Acceptance_Section></my:Proc_Acceptance_Section>
+	<my:Update_Proc_GUID>{5D6F548F-1980-48E5-8B5C-22B3F1EEF91C}</my:Update_Proc_GUID>
+	<my:Proc_InitialCostROM></my:Proc_InitialCostROM>
+	<my:Proc_IGE></my:Proc_IGE>
+	<my:Proc_Contractor></my:Proc_Contractor>
+	<my:Proc_Award></my:Proc_Award>
+	<my:Proc_ChangeOrder></my:Proc_ChangeOrder>
+	<my:Proc_Expended></my:Proc_Expended>
+	<my:Add_or_Update_Proc_Flag>false</my:Add_or_Update_Proc_Flag>
+	<my:IsCurrentUserInSpace>true</my:IsCurrentUserInSpace>
+	<my:Ignore_Once>false</my:Ignore_Once>
+	<my:Doc_Link_Folder_Added>false</my:Doc_Link_Folder_Added>
+	<my:Last_ID_Name></my:Last_ID_Name>
+	<my:Last_ID_Username></my:Last_ID_Username>
+	<my:PALTApproved>false</my:PALTApproved>
+	<my:PALTNotApproved>false</my:PALTNotApproved>
+	<my:Move_Confirmed>false</my:Move_Confirmed>
+	<my:EMS_Confirmed>false</my:EMS_Confirmed>
+	<my:Accept_Request_Date xsi:nil="true"></my:Accept_Request_Date>
+	<my:Move_Text_Section></my:Move_Text_Section>
+	<my:EMS_Text_Section></my:EMS_Text_Section>
+	<my:Reviewer2_Section></my:Reviewer2_Section>
+	<my:Reviewer3_Section></my:Reviewer3_Section>
+	<my:Reviewer_Approver_Text_Section></my:Reviewer_Approver_Text_Section>
+	<my:UserList_ChiefAO_Section2></my:UserList_ChiefAO_Section2>
+	<my:UserList_AOChief_Text_Section></my:UserList_AOChief_Text_Section>
+	<my:NotAO>false</my:NotAO>
+	<my:NotAO_Section>
+		<my:NotAOComments></my:NotAOComments>
+	</my:NotAO_Section>
+	<my:User_ID_Section></my:User_ID_Section>
+	<my:User_Install_Section>
+		<my:User_EstEndDate_Section></my:User_EstEndDate_Section>
+		<my:User_InstallDateApproved_Section></my:User_InstallDateApproved_Section>
+	</my:User_Install_Section>
+	<my:CurrentUserAccountName></my:CurrentUserAccountName>
+	<my:Requestor_UserID>
+		<pc:Person>
+			<pc:DisplayName>Wagner, Ray H.</pc:DisplayName>
+			<pc:AccountId>i:0#.w|vha21\vhapalwagner</pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Requestor_UserID>
+	<my:Username>i:0#.w|vha21\vhapalwagner</my:Username>
+	<my:Issue_Description></my:Issue_Description>
+	<my:Issue_Title_Txt></my:Issue_Title_Txt>
+	<my:NotAoComments_Section></my:NotAoComments_Section>
+	<my:Proc_Add_Update></my:Proc_Add_Update>
+	<my:FileName>F1901-00058</my:FileName>
+	<my:Test_PlanningGroup>i:0#.w|vha21\vhapalwagner</my:Test_PlanningGroup>
+	<my:Test_ProcmgmtGroup>i:0#.w|vha21\vhapalwagner</my:Test_ProcmgmtGroup>
+	<my:Test_ProcTeamGroup>i:0#.w|vha21\vhapalwagner</my:Test_ProcTeamGroup>
+	<my:Test_WorkflowAdminGroup>i:0#.w|vha21\vhapalwagner</my:Test_WorkflowAdminGroup>
+	<my:Test_SpaceGroup>i:0#.w|vha21\vhapalwagner</my:Test_SpaceGroup>
+	<my:Test_PDManagerGroup>i:0#.w|vha21\vhapalwagner</my:Test_PDManagerGroup>
+	<my:Test_OFPDGroup>i:0#.w|vha21\vhapalwagner</my:Test_OFPDGroup>
+	<my:IsCurrentUserInOFPD>true</my:IsCurrentUserInOFPD>
+	<my:Test_Show_Proc_1>false</my:Test_Show_Proc_1>
+	<my:Test_Show_Proc_2>false</my:Test_Show_Proc_2>
+	<my:Acceptance_Notes></my:Acceptance_Notes>
+	<my:DateAOAction xsi:nil="true"></my:DateAOAction>
+	<my:AOActionBy></my:AOActionBy>
+	<my:User_ESTInstallFinishDate_Section></my:User_ESTInstallFinishDate_Section>
+	<my:User_AletEstInstallFinishDate_Section></my:User_AletEstInstallFinishDate_Section>
+	<my:User_OITApproved_Section></my:User_OITApproved_Section>
+	<my:User_ServiceRepresentaticeSubmitted_Section></my:User_ServiceRepresentaticeSubmitted_Section>
+	<my:Final_Plan_Link my:field15=""></my:Final_Plan_Link>
+	<my:CreatedBy>i:0#.w|vha21\vhapalwagner</my:CreatedBy>
+	<my:CreatedBy_SubstringAfter>vha21\vhapalwagner</my:CreatedBy_SubstringAfter>
+	<my:CurrentUser_SubstringAfter>vha21\vhapalwagner</my:CurrentUser_SubstringAfter>
+	<my:MoreInfo_Service>Service</my:MoreInfo_Service>
+	<my:MoreInfo_Reviewer_Approver>The Reviewer/Approver for this request</my:MoreInfo_Reviewer_Approver>
+	<my:MoreInfo_Requestor>The Requestor and his/her Extension</my:MoreInfo_Requestor>
+	<my:MoreInfo_CostCenter>Cost Center</my:MoreInfo_CostCenter>
+	<my:MoreInfo_Location>Location</my:MoreInfo_Location>
+	<my:MoreInfo_Building>Building</my:MoreInfo_Building>
+	<my:MoreInfo_Description>Description</my:MoreInfo_Description>
+	<my:MoreInfo_Justification>Justification</my:MoreInfo_Justification>
+	<my:DefaultView_Justification_Hide_Section></my:DefaultView_Justification_Hide_Section>
+	<my:Unique_ID></my:Unique_ID>
+	<my:OFPD_RequestEntry_Flag>true</my:OFPD_RequestEntry_Flag>
+	<my:Attachments_RepeatingTable>
+		<my:Attachments_Group>
+			<my:Attachments1 xsi:nil="true"></my:Attachments1>
+		</my:Attachments_Group>
+	</my:Attachments_RepeatingTable>
+	<my:Issues_Name></my:Issues_Name>
+	<my:Issues_Section>Select...</my:Issues_Section>
+	<my:Issues_Priority>Select...</my:Issues_Priority>
+	<my:Issues_Owner>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Issues_Owner>
+	<my:Issues_KeepInformed>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Issues_KeepInformed>
+	<my:Issues_Assignedto>
+		<pc:Person>
+			<pc:DisplayName></pc:DisplayName>
+			<pc:AccountId></pc:AccountId>
+			<pc:AccountType></pc:AccountType>
+		</pc:Person>
+	</my:Issues_Assignedto>
+	<my:Issues_DateAssigned xsi:nil="true"></my:Issues_DateAssigned>
+	<my:Issues_Nextdueby xsi:nil="true"></my:Issues_Nextdueby>
+	<my:Issues_Overalldue xsi:nil="true"></my:Issues_Overalldue>
+	<my:Issues_ID></my:Issues_ID>
+	<my:Proc_ID></my:Proc_ID>
+	<my:Proc_FacilityRequestName_Concat></my:Proc_FacilityRequestName_Concat>
+	<my:Proc_FacilityRequest_Pipe></my:Proc_FacilityRequest_Pipe>
+	<my:Fiscal_Year_Txt></my:Fiscal_Year_Txt>
+	<my:Control_Point_Txt></my:Control_Point_Txt>
+	<my:Cost_Center_Txt></my:Cost_Center_Txt>
+	<my:BOC_Txt></my:BOC_Txt>
+	<my:Current_Proc_Form_Fields>Livermore Division-006, 26, 6, 30|</my:Current_Proc_Form_Fields>
+	<my:Temp_Proc_Form_Fields></my:Temp_Proc_Form_Fields>
+	<my:Procurement_Fields>
+		<my:Proc_Interior_Designer>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Proc_Interior_Designer>
+		<my:Proc_Contracting_Officer>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Proc_Contracting_Officer>
+		<my:Related_Proc_Section>
+			<my:Related_Procurements></my:Related_Procurements>
+			<my:Issue_Title></my:Issue_Title>
+			<my:update_Proc_Filter_FR></my:update_Proc_Filter_FR>
+			<my:update_Proc_Filter_FY></my:update_Proc_Filter_FY>
+			<my:update_Proc_Filter_CreatedBy></my:update_Proc_Filter_CreatedBy>
+			<my:update_Proc_Filter_ControlPoint></my:update_Proc_Filter_ControlPoint>
+			<my:update_Proc_Filter_PO></my:update_Proc_Filter_PO>
+			<my:update_Proc_Filter_2237></my:update_Proc_Filter_2237>
+			<my:update_Proc_Filter_Manufacturer></my:update_Proc_Filter_Manufacturer>
+			<my:update_Proc_Filter_Vendor></my:update_Proc_Filter_Vendor>
+			<my:Number_of_Procurements>209</my:Number_of_Procurements>
+			<my:Issue_Title_Dropdown></my:Issue_Title_Dropdown>
+			<my:Number_Of_Issues>130</my:Number_Of_Issues>
+			<my:update_Issues_Filter_FR></my:update_Issues_Filter_FR>
+		</my:Related_Proc_Section>
+		<my:Proc_Assigned_COR>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Proc_Assigned_COR>
+		<my:Proc_Description></my:Proc_Description>
+		<my:PO_Number></my:PO_Number>
+		<my:Transaction_Number></my:Transaction_Number>
+		<my:Control_Point></my:Control_Point>
+		<my:Proc_Budgeted xsi:nil="true"></my:Proc_Budgeted>
+		<my:Proc_PlannedCommitted xsi:nil="true"></my:Proc_PlannedCommitted>
+		<my:Proc_PlannedCommitted_Date xsi:nil="true"></my:Proc_PlannedCommitted_Date>
+		<my:Proc_ActualCommitted xsi:nil="true"></my:Proc_ActualCommitted>
+		<my:Proc_ActualCommitted_Date xsi:nil="true"></my:Proc_ActualCommitted_Date>
+		<my:Proc_PlannedObligated_Date xsi:nil="true"></my:Proc_PlannedObligated_Date>
+		<my:Proc_ActualObligated xsi:nil="true"></my:Proc_ActualObligated>
+		<my:Proc_ActualObligated_Date xsi:nil="true"></my:Proc_ActualObligated_Date>
+		<my:Expended xsi:nil="true"></my:Expended>
+		<my:Manufacturer></my:Manufacturer>
+		<my:Vendor></my:Vendor>
+		<my:Category></my:Category>
+		<my:Fiscal_Year></my:Fiscal_Year>
+		<my:Proc_Equipment_Planner>
+			<pc:Person>
+				<pc:DisplayName></pc:DisplayName>
+				<pc:AccountId></pc:AccountId>
+				<pc:AccountType></pc:AccountType>
+			</pc:Person>
+		</my:Proc_Equipment_Planner>
+		<my:Proc_CostCenter></my:Proc_CostCenter>
+		<my:BOC></my:BOC>
+		<my:Quote></my:Quote>
+		<my:ECMS_UID></my:ECMS_UID>
+		<my:Purchase_Method></my:Purchase_Method>
+		<my:Proc_Invoice_Number></my:Proc_Invoice_Number>
+		<my:Personal_Tracking_Number></my:Personal_Tracking_Number>
+		<my:Proc_RelatedProjectNo></my:Proc_RelatedProjectNo>
+		<my:Proc_ITARS_Number></my:Proc_ITARS_Number>
+		<my:Proc_Notes></my:Proc_Notes>
+	</my:Procurement_Fields>
+	<my:Add_Update_Issues_Flag>false</my:Add_Update_Issues_Flag>
+	<my:Current_Issues_Form_Fields>Select...Select...Livermore Division-006, 26, 6, 30|</my:Current_Issues_Form_Fields>
+	<my:Temp_Issues_Form_Fields></my:Temp_Issues_Form_Fields>
+	<my:Link_To_SPDocs_ProjInfo></my:Link_To_SPDocs_ProjInfo>
+	<my:OIT_FRAdmin>false</my:OIT_FRAdmin>
+	<my:Engineering_FRAdmin>false</my:Engineering_FRAdmin>
+	<my:IsCurrentUserInPDMgr>false</my:IsCurrentUserInPDMgr>
+	<my:UserAttachment>false</my:UserAttachment>
+	<my:Emergency_Text_Section></my:Emergency_Text_Section>
+	<my:Location_Concat></my:Location_Concat>
+	<my:Purchase_Card_Section>
+		<my:PCard_RequestedDate>2019-01-02</my:PCard_RequestedDate>
+		<my:PCard_Date_Issued>2019-01-02</my:PCard_Date_Issued>
+		<my:PCard_Requestor_Phone>650.493.5000 x62943</my:PCard_Requestor_Phone>
+		<my:PCard_Section></my:PCard_Section>
+		<my:PCard_Request_Description></my:PCard_Request_Description>
+		<my:PCard_type_Construction>false</my:PCard_type_Construction>
+		<my:PCard_type_Goods>false</my:PCard_type_Goods>
+		<my:PCard_type_Service>false</my:PCard_type_Service>
+		<my:PCard_ShippingCost xsi:nil="true"></my:PCard_ShippingCost>
+		<my:Delivery_Coordination_Plan></my:Delivery_Coordination_Plan>
+		<my:PurchaseCardHolder></my:PurchaseCardHolder>
+		<my:Purchase_Card_Holder_Name></my:Purchase_Card_Holder_Name>
+		<my:PCard_Action></my:PCard_Action>
+		<my:PCard_RequestSubmitted>false</my:PCard_RequestSubmitted>
+		<my:Current_PCard_Form_Fields>650.493.5000 x629432019-01-022019-01-02falsefalsefalse</my:Current_PCard_Form_Fields>
+		<my:Temp_PCard_Form_Fields></my:Temp_PCard_Form_Fields>
+		<my:Primary_Design_Services>false</my:Primary_Design_Services>
+		<my:Primary_Construction_Services>false</my:Primary_Construction_Services>
+		<my:Primary_Services_Flag></my:Primary_Services_Flag>
+		<my:Requester_Username></my:Requester_Username>
+		<my:Current_State></my:Current_State>
+		<my:Bypass_Workflow>false</my:Bypass_Workflow>
+		<my:Requester></my:Requester>
+	</my:Purchase_Card_Section>
+	<my:Current_User_DisplayName>Wagner, Ray H.</my:Current_User_DisplayName>
+	<my:Proc_View>
+		<my:Mainview_ProcurementType></my:Mainview_ProcurementType>
+	</my:Proc_View>
+	<my:Calendar_Link></my:Calendar_Link>
+	<my:IDEmail></my:IDEmail>
+	<my:EmailEstInstallDateSent xsi:nil="true"></my:EmailEstInstallDateSent>
+	<my:AssessDateComplete xsi:nil="true"></my:AssessDateComplete>
+	<my:Temp_ID>1</my:Temp_ID>
+	<my:Procurements_Fields_WorkflowUse></my:Procurements_Fields_WorkflowUse>
+	<my:Issues_Fields_WorkflowUse></my:Issues_Fields_WorkflowUse>
+	<my:PurchaseCard_WorkflowUse></my:PurchaseCard_WorkflowUse>
+	<my:Current_Request_Members>Wagner, Ray H.Wagner, Ray H.Wagner, Ray H.i:0#.w|vha21\vhapalwagneri:0#.w|vha21\vhapalwagneri:0#.w|vha21\vhapalwagneri:0#.w|vha21\vhapalwagnerWagner, Ray H.i:0#.w|vha21\vhapalwagnerWagner, Ray H.Wagner, Ray H.The Reviewer/Approver for this requestThe Requestor and his/her Extensionfalse</my:Current_Request_Members>
+	<my:group6></my:group6>
+	<my:AO_Review_Section1></my:AO_Review_Section1>
+	<my:AO_Review_Section2></my:AO_Review_Section2>
+	<my:Show_AOReview>false</my:Show_AOReview>
+	<my:User1_Section></my:User1_Section>
+	<my:defaultview_Section></my:defaultview_Section>
+	<my:Unauthorized_access_Section></my:Unauthorized_access_Section>
+	<my:Show_Unauthorized>false</my:Show_Unauthorized>
+	<my:More_Info_Section></my:More_Info_Section>
+	<my:ID_NotAssigned_Section></my:ID_NotAssigned_Section>
+	<my:Show_MoreInfo>true</my:Show_MoreInfo>
+	<my:Show_IDNotAssigned>false</my:Show_IDNotAssigned>
+	<my:UpdateProcurementsSection></my:UpdateProcurementsSection>
+	<my:UpdateProc_View2_Flag>false</my:UpdateProc_View2_Flag>
+	<my:PurchaseCard_View3_flag>false</my:PurchaseCard_View3_flag>
+</my:myFields>
